@@ -1,4 +1,4 @@
-# 🌠 Temperaturario v1.0
+# 🌡️ Temperaturario v1.0
 
 This repository contains the source code for the project **Temperaturario v1.0**. This project was submitted as homework during my third year at [I.T.I.S. Magistri Cumacini](https://www.magistricumacini.edu.it/) to my I.T. teacher.
 
